@@ -20,4 +20,4 @@ My Quarter 1 project involves replicating a baseline climate model emulator prop
 
 **4. What other techniques would you be interested in using in your project?**
 
-
+I am interested in learning how to build a static yet interactive website as part of the deliverable for the Quarter 2 project. I already have experience with Jekyll, JavaScript, HTML, and CSS, but I am excited to deepen my knowledge and skills.
